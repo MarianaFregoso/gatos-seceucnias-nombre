@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+class Gato {
+    var nombre : String?
+    var vidas : Int?
+    var edad : Int?
+    var esterelizado : Bool?
+}
